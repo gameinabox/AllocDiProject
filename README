@@ -1,0 +1,11 @@
+mkdir AllocDiProject
+cd AllocDiProject
+git init
+git remote add origin git@github.com:gameinabox/AllocDiProject.git
+git pull -u origin master
+
+edit some file or for new git files:
+git add xxx
+git commit -m "first commit" xxx
+git remote add origin git@github.com:gameinabox/AllocDiProject.git
+
